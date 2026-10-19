@@ -1,4 +1,4 @@
-# Exercicios-da-Aula-PHP
+# Aula-PHP
 
 > Os arquivos são os códigos que eu testei em aula.
 > Link sobre os padrões de variáveis: [Padrões de Variáveis](https://www.alura.com.br/artigos/convencoes-nomenclatura-camel-pascal-kebab-snake-case?)
